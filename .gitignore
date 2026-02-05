@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-**/tempCodeRunnerFile*
+backend/tempCodeRunnerFile.js
 
 **/node_modules/
